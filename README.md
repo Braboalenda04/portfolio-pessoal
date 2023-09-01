@@ -10,6 +10,7 @@
 
 
 # Progeto - Apredendo a escrever um README
+![imagem info](img/IMG.png) 
 
 ## Descrição 
 
