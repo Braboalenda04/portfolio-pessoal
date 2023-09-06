@@ -15,9 +15,12 @@
 ## Descrição 
 [É uma pagina inicial que com botões de novidades, contatos e saber mias.](#descri%C3%A7%C3%A3o)
 ## Introdução 
-
+[Este projeto é uma página de capa  usando Bootstrap v5.0,  ideal para página inicial, com cabeçalho, seção  principal e rodapé](#introdu%C3%A7%C3%A3o)
 ## Funcionaldades
-
+Cabeçalho com links de navegação.
+Botão "Saber mais" na pagina principal.
+Estilização usando CSS.
+Layout do Bootstrap.
 ### Tecnologias utilizadas
 
 ## Fontes consultadas
