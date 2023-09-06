@@ -25,8 +25,10 @@
 
 [* Layout do Bootstrap.](#funcionalidades) 
 ### Tecnologias utilizadas
-
+[HTML 
+CSS 
+Bootstrap v5.0 ](#tecnologias-utilizadas)
 ## Fontes consultadas
-
+[https://getbootstrap.com/](#fontes-consultadas)
 ## Autores
 [Gabriel, Miguel e Nicolas]
