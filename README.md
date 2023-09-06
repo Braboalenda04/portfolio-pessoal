@@ -13,7 +13,7 @@
 ![imagem info](img/IMG.png) 
 
 ## Descrição 
-
+[É uma pagina inicial que com botões de novidades, contatos e saber mias.](#descri%C3%A7%C3%A3o)
 ## Introdução 
 
 ## Funcionaldades
@@ -23,3 +23,4 @@
 ## Fontes consultadas
 
 ## Autores
+[Gabriel, Miguel e Nicolas]
