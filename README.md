@@ -17,7 +17,7 @@
 ## Introdução 
 Este projeto é uma página de capa  usando Bootstrap v5.0,  ideal para página inicial, com cabeçalho, seção  principal e rodapé
 ## Funcionaldades
-* Cabeçalho com links de navegação
+`Funcionalidade 1`: Cabeçalho com links de navegação
 * Botão "Saber mais" na pagina principal.
 * Estilização usando CSS.
 
@@ -30,7 +30,7 @@ Este projeto é uma página de capa  usando Bootstrap v5.0,  ideal para página 
 ## Fontes consultadas
 
 * [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível 
-
+* [GitREADME](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - 
 Consulta com o Professor Leonardo Rocha
 ## Autores
 [Gabriel, Miguel e Nicolas]
