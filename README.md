@@ -17,10 +17,9 @@
 ## Introdução 
 Este projeto é uma página de capa  usando Bootstrap v5.0,  ideal para página inicial, com cabeçalho, seção  principal e rodapé
 ## Funcionaldades
-`Cabeçalho da página`: Cabeçalho com links de navegação
-* Botão "Saber mais" na pagina principal.
-* Estilização usando CSS.
-
+`Cabeçalho da página`: Cabeçalho botões de localização.
+ `Saber maias`: é direcinoanado para outra pagina.
+`Rodapé`: O rodapé tem dois linkes que um vai para uma pagina 
 * Layout do Bootstrap.) 
 ### Tecnologias utilizadas
 * HTML 
