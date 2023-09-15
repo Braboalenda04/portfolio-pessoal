@@ -31,8 +31,8 @@ Este projeto é uma página de capa  usando Bootstrap v5.0,  ideal para página 
  * o segundo para a conta do X do idealizar da página
 
 ### Tecnologias utilizadas
-* HTML 
-* CSS
+* HTML 5.0
+* CSS 3.0
 * Bootstrap v5.0
 * Github
 * VsCode
